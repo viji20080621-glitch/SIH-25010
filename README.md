@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:25/09/2025
+## Register Number:25017569
+## Name:Vijiyalakshmi A
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,43 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+1. Use real-time soil, weather, and historical crop data to recommend the most suitable crops.
+
+2. Provide customized advice on fertilizers, pesticides, and irrigation based on soil and crop conditions.
+
+3. Deliver advisory through a mobile app and SMS in regional languages.
+
+## Diagram
+![alt text](image.jpg)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+1. Mobile phones can give farmers tips and alerts about crops, weather, and pests.
+
+2. Sensors in fields can check soil moisture and crop health.
+
+3. Computer analysis (AI) can suggest the best crop, fertilizer, and irrigation methods.
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+1. Easy to set up with available technology.
+
+2. Farmers can access it through simple mobile phones.
+
+3. Needs low-cost tools like sensors and SMS alerts.
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1. Farmers get correct and timely advice for crops.
+
+2. Crop losses from pests and weather reduce.
+
+3. Better decision-making improves farm productivity.
+
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+1. Research shows mobile apps and SMS help farmers get crop and weather advice.
+
+2. Studies say sensors in fields improve crop health and reduce losses.
+
+3. Case studies in India prove farmers earn more with smart advisory systems.
+
